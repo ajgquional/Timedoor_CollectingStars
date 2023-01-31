@@ -11,7 +11,10 @@ The codes for this game  are mostly copied from Timedoor's Intermediate JavaScri
 This repository only contains the source codes as well as assets linked in the book (as a Google Drive link). Thus, this repository is mainly for reference. Should you wish to use these files, you may download them and copy them to the template folder but make sure first that a Phaser framework is installed in your local machine and necessary steps have been conducted (such as installation of node.js and Visual Studio Code). Afterwards, the public (which contains the assets) and src (which contains all the source codes) folders can be copied in the game folder. The "game" can be run by typing the command ```npm run start``` in the terminal within Visual Studio Code, then clicking on the local server link (for instance, localhost:8000) in the terminal. The game will then open in your default browser.
 
 ## Summarized game mechanics and link to sample game
-- Controls: Left Arrow to move left, Right Arrow to move right, and Up Arrow to jump
+- Controls: 
+  - Left Arrow to move left
+  - Right Arrow to move right
+  - Up Arrow to jump
 - Rules:
   - Collect as many stars as possible and earn as many points as you can (1 star = 10 points).
   - Once all stars are collected, new stars would be created.
